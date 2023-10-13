@@ -1,1 +1,1 @@
-# vuejs-ar-cosmos
+# stargaze-ar
